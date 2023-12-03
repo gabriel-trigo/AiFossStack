@@ -6,3 +6,4 @@ pypdf
 transformers
 torch
 torchvision
+flask
